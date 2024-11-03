@@ -7,9 +7,6 @@ This project demonstrates how to build a content-based movie recommendation syst
 ## Project Overview
 
 In this project, we create a recommendation engine using metadata from the TMDB dataset to match users with movies based on content rather than collaborative filtering. By analyzing features such as genres, cast, keywords, and crew members, the model provides recommendations for movies that share similar characteristics.
-```bash
-pip install foobar
-```
 
 ## Table of Contents
 1. [Datasets](#Datasets)
