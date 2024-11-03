@@ -16,8 +16,7 @@ pip install foobar
 2. [Installation](#Installation)
 3. [Project Structure](#Project#Structure)
 4. [Usage](#Usage)
-5. [Features](#Features)
-6. [Contributions](#Contributions)
+5. [Running The App](#Running#The#App)
 
 ## Datasets
 The project uses two main datasets from [Kaggle’s TMDB Movie Metadata](#Kaggle’s#TMDB#Movie#Metadata):
